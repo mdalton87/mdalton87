@@ -1,4 +1,5 @@
-### Hi there 👋
+<img src="https://github.com/mdalton87/readme_files/blob/main/matthew_dalton.gif?raw=true">
+
 
 <!--
 **mdalton87/mdalton87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
