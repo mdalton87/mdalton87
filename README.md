@@ -3,7 +3,7 @@
 
 Languages and Tools:
 
-<img src="https://badgen.net/pypi/python/black"> <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF"> 
+<img src="https://badgen.net/pypi/python/black"> <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF"> [![PyPI Latest Release](https://img.shields.io/pypi/v/pandas.svg)](https://pypi.org/project/pandas/)
 
 
 
