@@ -1,12 +1,9 @@
 <img src="https://github.com/mdalton87/readme_files/blob/main/matthew_dalton.gif?raw=true">
 
 
+Languages and Tools:
 
-<img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-
-
+https://img.shields.io/pypi/pyversions/3?logo=python&style=plastic <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF"> 
 
 
 
