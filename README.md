@@ -3,8 +3,18 @@
 
 Languages and Tools: \
 \
-<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /> <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/> <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" /> <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" /> <img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?&style=for-the-badge&logo=Trello&logoColor=white"/> <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
+![](https://img.shields.io/static/v1?message=Python&logo=python&labelColor=5c5c5c&color=2f5f98&logoColor=white&label=%20)
+![](https://img.shields.io/static/v1?message=Pandas&logo=pandas&labelColor=5c5c5c&color=2f5f98&logoColor=white&label=%20)
+![](https://img.shields.io/static/v1?message=SciKit-Learn&logo=scikit-learn&labelColor=5c5c5c&color=2f5f98&logoColor=white&label=%20)
+![](https://img.shields.io/static/v1?message=NumPy&logo=numpy&labelColor=5c5c5c&color=2f5f98&logoColor=white&label=%20)
+![](https://img.shields.io/static/v1?message=MatPlotLib&logo=python&labelColor=5c5c5c&color=2f5f98&logoColor=white&label=%20)
+![](https://img.shields.io/static/v1?message=Seaborn&logo=python&labelColor=5c5c5c&color=2f5f98&logoColor=white&label=%20)
+![](https://img.shields.io/static/v1?message=Tableau&logo=tableau&labelColor=5c5c5c&color=2f5f98&logoColor=white&label=%20)
+![](https://img.shields.io/static/v1?message=Canva&logo=canva&labelColor=5c5c5c&color=2f5f98&logoColor=white&label=%20)
+![](https://img.shields.io/static/v1?message=Markdown&logo=markdown&labelColor=5c5c5c&color=2f5f98&logoColor=white&label=%20)
+![](https://img.shields.io/static/v1?message=JupyterLab&logo=jupyter&labelColor=5c5c5c&color=2f5f98&logoColor=white&label=%20)
+![](https://img.shields.io/static/v1?message=DeepNote&logo=deepnote&labelColor=5c5c5c&color=2f5f98&logoColor=white&label=%20)
+![](https://img.shields.io/static/v1?message=Trello&logo=trello&labelColor=5c5c5c&color=2f5f98&logoColor=white&label=%20)
 
 
 
